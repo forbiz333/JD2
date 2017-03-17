@@ -24,11 +24,11 @@ public class math {
     }
 
 
-    public double multy(dauble a, dauble b) {
+    public double multy(double a, double b) {
 
         double c;
 
-        c = a * c;
+        c = a * b;
         return c;
     }
 }
