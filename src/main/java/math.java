@@ -7,8 +7,8 @@ public class Math {
     double b;
     double c;
 
-
-    c =a * c;
-    System.out.println(c)
-
+    public double multy(dauble a, dauble b) {
+        c = a * c;
+        return c;
+    }
 }
