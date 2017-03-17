@@ -14,13 +14,6 @@ public class math {
             c = 0;
             return c;
         }
-
-    }
-
-    public double sum(double a, double b) {
-        double c;
-        c = a + b;
-        return c;
     }
 
 }
