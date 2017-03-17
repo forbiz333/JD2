@@ -15,11 +15,10 @@ public class math {
             return c;
         }
 
-
     }
 
-    public double sum(int a, int b) {
-        int c;
+    public double sum(double a, double b) {
+        double c;
         c = a + b;
         return c;
     }
