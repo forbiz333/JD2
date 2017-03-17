@@ -31,4 +31,11 @@ public class math {
         c = a * b;
         return c;
     }
+
+    public double minus (double a, double b) {
+        double c;
+        c = a+b;
+        return c;
+    }
+
 }
