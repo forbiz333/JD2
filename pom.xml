@@ -16,7 +16,11 @@
     </dependency>
   </dependencies>
   <build>
+<<<<<<< HEAD
     <finalName>testWebApp</finalName>
+=======
+    <finalName>test_____ЦЦЦЦЦЦЦЦЦЦЦЦ______App</finalName>
+>>>>>>> parent of 940a852... remooving
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
@@ -49,8 +53,13 @@
    <distributionManagement>
     <repository>
       <id>tomcat</id>
+<<<<<<< HEAD
       <name>MyRepository</name>
       <url>http://localhost:8080/testWebApp</url>
+=======
+      <name>localhost</name>
+      <url>localhost</url>
+>>>>>>> parent of 940a852... remooving
     </repository>
 
    </distributionManagement>
