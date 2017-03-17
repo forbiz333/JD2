@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>testWebApp</finalName>
+    <finalName>testWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWebApp</finalName>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
