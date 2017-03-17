@@ -32,9 +32,9 @@ public class math {
         return c;
     }
 
-    public double minus (double a, double b) {
+    public double minus(double a, double b) {
         double c;
-        c = a+b;
+        c = a - b;
         return c;
     }
 
