@@ -3,4 +3,10 @@
  */
 public class math {
 
+    public double sum(int a, int b) {
+        int c;
+        c = a + b;
+        return c;
+    }
+
 }
