@@ -15,5 +15,4 @@ public class math {
             return c;
         }
     }
-
 }
