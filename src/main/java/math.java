@@ -5,9 +5,11 @@ public class Math {
 
     double a;
     double b;
-    double c;
 
     public double multy(dauble a, dauble b) {
+
+        double c;
+
         c = a * c;
         return c;
     }
