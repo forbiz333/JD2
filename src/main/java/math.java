@@ -23,8 +23,6 @@ public class math {
         return c;
     }
 
-    double a;
-    double b;
 
     public double multy(dauble a, dauble b) {
 
