@@ -14,7 +14,6 @@ public class math {
             c = 0;
             return c;
         }
-
     }
 
     public double sum(double a, double b) {
@@ -37,5 +36,4 @@ public class math {
         c = a - b;
         return c;
     }
-
 }
