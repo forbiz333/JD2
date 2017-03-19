@@ -15,4 +15,25 @@ public class math {
             return c;
         }
     }
+
+    public double sum(double a, double b) {
+        double c;
+        c = a + b;
+        return c;
+    }
+
+
+    public double multy(double a, double b) {
+
+        double c;
+
+        c = a * b;
+        return c;
+    }
+
+    public double minus(double a, double b) {
+        double c;
+        c = a - b;
+        return c;
+    }
 }
